@@ -522,7 +522,7 @@ async def mention_afk(mention):
             is_bot = sender.bot
         if not is_bot and mention.sender_id not in USERS:
             if AFKREASON:
-                await mention.reply("I'm AFK right now."
+                await mention.reply("I am AFK right now."
                                     f"\nBecause **{AFKREASON}**")
             else:
                 await mention.reply(str(choice(AFKSTR)))
