@@ -202,7 +202,7 @@ AFKSTR = [
     "**non-redundant fan failure **",
     "**monitor VLF leakage**",
     "**bugs in the RAID**",
-    "**no "any" key on keyboard**",
+    "**no \"any\" key on keyboard**",
     "**root rot**",
     "**Backbone Scoliosis**",
     "**/pub/lunch**",
